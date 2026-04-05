@@ -1,6 +1,6 @@
 # RT 59 — NUA Interactiva
 
-App interactiva para navegar la Resolución Técnica N° 59 (T.O. RT 54 — Norma Unificada Argentina de Contabilidad).
+App interactiva para navegar la Resolución Técnica N°  59 (T.O. RT 54 — Norma Unificada Argentina de Contabilidad).
 
 ## Características
 
